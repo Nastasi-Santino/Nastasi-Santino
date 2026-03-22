@@ -1,5 +1,18 @@
-Currently studing Electronic Engenieering at ITBA. 
-<!---
-Nastasi-Santino/Nastasi-Santino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Santino
+
+Electronic Engineering student with strong academic performance (GPA 9.14) and interest in:
+
+- Electromagnetics
+- Telecommunications
+- Analog Design
+- Signal Processing
+
+## Featured Projects
+
+- FDTD Electromagnetic Wave Simulator (C++, Python)
+- Rocket Tracking System (Avionics Team - ITBA)
+
+## Tools
+
+C/C++, Python, Verilog  
+KiCad, Altium, LTspice
